@@ -23,7 +23,7 @@ export default function App() {
   }
   return <AppNavigation />;
 }
-
+//test
 const styles = StyleSheet.create({
   container: {
     flex: 1,
