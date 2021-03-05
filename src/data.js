@@ -3,7 +3,7 @@ export const DATA = [
     id: "1",
     img:
       "https://i.pinimg.com/originals/c5/a5/1d/c5a51da83176794a7c8812e4b2af3fa4.jpg",
-    text: "Awesome text 1",
+    text: "Dadario",
     date: new Date().toJSON(),
     booked: true,
   },
